@@ -10,8 +10,8 @@
 - Packages: [Scikit-learn, Numpy, Pandas, Sci-Py,Statsmodels, Matplotlib, NLTK, BeautifulSoup, Bootstrap, API’s and RESTful services.]
 - Statistics/Machine Learning: [Statistical Analysis, Regression Analysis, Classification Analysis, Clustering, Graph Theory, Regularizations.]
 
-📚 Blog & Writing
-- I occasionally share my thoughts and experiences in the tech world on my blog [[link to the blog](https://www.linkedin.com/in/adithya-jakkaraju-a145b884/recent-activity/all/)]. Check it out if you're interested.
+📚 Writing
+- I occasionally share my thoughts and experiences in the tech world on my LinkedIn [[link to the blog](https://www.linkedin.com/in/adithya-jakkaraju-a145b884/recent-activity/all/)]. Check it out if you're interested.
 
 📫 Let's Connect
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adithya-jakkaraju-a145b884/). I'm always open to interesting discussions, collaborations, and new opportunities.
