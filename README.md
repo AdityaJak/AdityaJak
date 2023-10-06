@@ -16,4 +16,8 @@
 📫 Let's Connect
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adithya-jakkaraju-a145b884/). I'm always open to interesting discussions, collaborations, and new opportunities.
 
+💻 Constantly learning and exploring new technologies
+
+🌍 Building a better digital world, one commit at a time
+
 Thanks for visiting my GitHub profile! 😄
