@@ -11,7 +11,7 @@
 - Statistics/Machine Learning: [Statistical Analysis, Regression Analysis, Classification Analysis, Clustering, Graph Theory, Regularizations.]
 
 📚 Writing
-- I occasionally share my thoughts and experiences in the tech world on my LinkedIn [[link to the blog](https://www.linkedin.com/in/adithya-jakkaraju-a145b884/recent-activity/all/)]. Check it out if you're interested.
+- I occasionally share my thoughts and experiences in the tech world on my LinkedIn [[link to the articles](https://www.linkedin.com/in/adithya-jakkaraju-a145b884/recent-activity/all/)]. Check it out if you're interested.
 
 📫 Let's Connect
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adithya-jakkaraju-a145b884/). I'm always open to interesting discussions, collaborations, and new opportunities.
