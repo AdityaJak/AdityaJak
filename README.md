@@ -3,7 +3,7 @@
 🚀 Software Engineer | Open Source Enthusiast | Problem Solver
 
 🌟 About Me
-I'm passionate about all things tech and love to create software that makes a positive impact on people's lives. I enjoy tackling complex problems and turning them into elegant solutions.
+  I'm passionate about all things tech and love to create software that makes a positive impact on people's lives. I enjoy tackling complex problems and turning them into elegant solutions.
 
 🔧 Tech Stack
 - Tools: [C, C++, Python, Atmel, Matlab, MapReduce, AWS, Spyder, Google Colab, Jupyter Notebook, SQL, Linux, HTML, CSS, JavaScript, React.]
